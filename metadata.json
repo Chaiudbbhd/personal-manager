@@ -1,0 +1,5 @@
+{
+  "name": "LPK Notion Manager",
+  "description": "A powerful, Notion-like productivity manager with pages, tasks, Career Hub, and Analytics Dashboard with persistent SQLite storage.",
+  "requestFramePermissions": []
+}
